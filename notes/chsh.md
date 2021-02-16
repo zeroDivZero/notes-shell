@@ -1,4 +1,4 @@
-# CHSH
+# `chsh`
 
 Change default login shell.
 
